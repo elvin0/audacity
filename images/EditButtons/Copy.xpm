@@ -2,7 +2,7 @@
 static const char * const const Copy[] = {
 "26 24 11 1",
 " 	c None",
-".	c #CCCCCC",
+".	c #000000",
 "+	c #222222",
 "@	c #060606",
 "#	c #000000",
